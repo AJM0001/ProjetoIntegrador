@@ -1,0 +1,47 @@
+﻿@page "/projetorelatorio"
+
+@using MvpPesquisador.Modelo
+@using MvpPesquisador.Controllers
+@inject ProjetoController projetoController
+
+<div class="form-group d-flex justify-content-center align-items-center" style="margin: 20px;">
+    <h3>Relatorio Projeto</h3>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nome</th>
+            <th>Pessoas</th>
+            <th>Estabelecimento</th>
+            <th>Área</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var projeto in projetoController.BuscarTudoProjeto())
+        {
+            <tr>
+                <td>@projeto.Id</td>
+                <td>@projeto.Nome</td>
+                <td>
+                    @foreach (var pessoa in projeto.Pessoas)
+                    {
+                        <p>@pessoa.Nome</p> 
+                    }
+                </td>
+                <td>
+                    @foreach (var estabelecimento in projeto.Estabelecimento)
+                    {
+                        <p>@estabelecimento.Nome</p>
+                    }
+                </td>
+                <td>@projeto.Area</td>
+                <td>@(projeto.Status ? "Ativo" : "Inativo")</td>
+            </tr>
+        }
+    </tbody>
+
+<button type="submit" class="btn btn-primary" style="margin: 20px;" @onclick="projetoController.RecarregarPaginaProjeto">Recarregar</button>
+</table>

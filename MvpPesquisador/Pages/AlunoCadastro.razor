@@ -1,0 +1,47 @@
+﻿@page "/alunocadastro"
+
+@using MvpPesquisador.Modelo
+@using MvpPesquisador.Controllers
+@inject PessoaController pessoaController
+@inject Modelo.Aluno aluno
+@using Microsoft.AspNetCore.Components.Forms
+
+<EditForm Model="@aluno" OnValidSubmit="@(e => pessoaController.CriarPessoa(aluno))">
+    <DataAnnotationsValidator />
+
+    <div class="form-group d-flex justify-content-center align-items-center" style="margin: 20px;">
+        <h3>Cadastro Aluno</h3>
+    </div>
+
+    <div class="form-group d-flex flex-row" style="margin: 20px;">
+        <div style="width: 20%;">
+            <label>Nome:</label>
+        </div>
+        <div style="width: 45%;">
+            <InputText class="form-control" id="nome" @bind-Value="@aluno.Nome"></InputText>
+            <ValidationMessage For="() => aluno.Nome" />
+        </div>
+    </div>
+
+    <div class="form-group d-flex flex-row" style="margin: 20px;">
+        <div style="width: 20%;">
+            <label>Codigo da Instituição:</label>
+        </div>
+        <div style="width: 45%;">
+            <InputNumber class="form-control" id="CodigoInstiuicao" @bind-Value="@aluno.CodigoInstituicao"></InputNumber>
+            <ValidationMessage For="() => aluno.CodigoInstituicao" />
+        </div>
+    </div>
+
+    <div class="form-group d-flex flex-row" style="margin: 20px;">
+        <div style="width: 20%;">
+            <label>Curso:</label>
+        </div>
+        <div style="width: 45%;">
+            <InputText class="form-control" id="Curso" @bind-Value="@aluno.Curso"></InputText>
+            <ValidationMessage For="() => aluno.Curso" />
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary" style="margin: 20px;">Salvar</button>
+</EditForm>

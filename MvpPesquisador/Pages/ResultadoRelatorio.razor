@@ -1,0 +1,31 @@
+﻿@page "/resultadorelatorio"
+
+@using MvpPesquisador.Modelo
+@using MvpPesquisador.Controllers
+@inject ResultadoController resultadoController
+
+<div class="form-group d-flex justify-content-center align-items-center" style="margin: 20px;">
+    <h3>Relatorio Resultado</h3>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Informacoes</th>
+            <th>Projeto ID</th>
+            <th>Projeto Nome</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var resultado in resultadoController.BuscarTudoResultado())
+        {
+            <tr>
+                <td>@resultado.Informacoes</td>
+                <td>@resultado.Projeto.Id</td>
+                <td>@resultado.Projeto.Nome</td>
+            </tr>
+        }
+    </tbody>
+
+    <button type="submit" class="btn btn-primary" style="margin: 20px;" @onclick="resultadoController.RecarregarPaginaResultado">Recarregar</button>
+</table>

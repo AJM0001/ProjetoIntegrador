@@ -1,0 +1,33 @@
+﻿@page "/alunorelatorio"
+
+@using MvpPesquisador.Modelo
+@using MvpPesquisador.Controllers
+@inject PessoaController pesquisadorController
+
+<div class="form-group d-flex justify-content-center align-items-center" style="margin: 20px;">
+    <h3>Relatorio Aluno</h3>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Codigo Instituição</th>
+            <th>Curso</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var pesquisador in pesquisadorController.BuscarTudoAluno())
+        {
+            <tr>
+                <td>@pesquisador?.Id</td>
+                <td>@pesquisador?.Nome</td>
+                <td>@pesquisador?.CodigoInstituicao</td>
+                <td>@pesquisador?.Curso</td>
+            </tr>
+        }
+    </tbody>
+
+    <button type="submit" class="btn btn-primary" style="margin: 20px;" @onclick="pesquisadorController.RecarregarPaginaAluno">Recarregar</button>
+</table>

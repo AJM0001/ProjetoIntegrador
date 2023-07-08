@@ -1,0 +1,575 @@
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\appsettings.json
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.staticwebassets.runtime.json
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.exe
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.deps.json
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.runtimeconfig.json
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.dll
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.pdb
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\Npgsql.dll
+C:\Users\bortjo\Downloads\MvpPesquisador\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.AssemblyReference.cache
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfoInputs.cache
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfo.cs
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CoreCompileInputs.cache
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cache
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cs
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.MvpPesquisador.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.build.MvpPesquisador.props
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MvpPesquisador.props
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MvpPesquisador.props
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\scopedcss\bundle\MvpPesquisador.styles.css
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\scopedcss\projectbundle\MvpPesquisador.bundle.scp.css
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CopyComplete
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.dll
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\refint\MvpPesquisador.dll
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.pdb
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.genruntimeconfig.cache
+C:\Users\bortjo\Downloads\MvpPesquisador\obj\Debug\net6.0\ref\MvpPesquisador.dll
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.AssemblyReference.cache
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfoInputs.cache
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfo.cs
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CoreCompileInputs.cache
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cache
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cs
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.dll
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\obj\Debug\net6.0\refint\MvpPesquisador.dll
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.pdb
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\appsettings.json
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.staticwebassets.runtime.json
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.exe
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.deps.json
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.runtimeconfig.json
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.dll
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.pdb
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\Npgsql.dll
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\obj\Debug\net6.0\scopedcss\bundle\MvpPesquisador.styles.css
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\obj\Debug\net6.0\scopedcss\projectbundle\MvpPesquisador.bundle.scp.css
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CopyComplete
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.genruntimeconfig.cache
+C:\Users\aliss\Desktop\Faculdade\5º semestre\Laboratório de software\MvpPesquisador V2\MvpPesquisador\obj\Debug\net6.0\ref\MvpPesquisador.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\appsettings.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.staticwebassets.runtime.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.exe
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.deps.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.runtimeconfig.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.pdb
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Npgsql.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.AssemblyReference.cache
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfoInputs.cache
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfo.cs
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CoreCompileInputs.cache
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cache
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cs
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.MvpPesquisador.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.build.MvpPesquisador.props
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MvpPesquisador.props
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MvpPesquisador.props
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\scopedcss\bundle\MvpPesquisador.styles.css
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\scopedcss\projectbundle\MvpPesquisador.bundle.scp.css
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CopyComplete
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\refint\MvpPesquisador.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.pdb
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.genruntimeconfig.cache
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\ref\MvpPesquisador.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\appsettings.json
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.staticwebassets.runtime.json
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.exe
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.deps.json
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.runtimeconfig.json
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.pdb
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Npgsql.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.AssemblyReference.cache
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfoInputs.cache
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfo.cs
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CoreCompileInputs.cache
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cache
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cs
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.MvpPesquisador.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.build.MvpPesquisador.props
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MvpPesquisador.props
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MvpPesquisador.props
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\scopedcss\bundle\MvpPesquisador.styles.css
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\scopedcss\projectbundle\MvpPesquisador.bundle.scp.css
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CopyComplete
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\refint\MvpPesquisador.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.pdb
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.genruntimeconfig.cache
+C:\Users\bortjo\Downloads\MvpPesquisador V3\MvpPesquisador\obj\Debug\net6.0\ref\MvpPesquisador.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\appsettings.Development.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\appsettings.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.staticwebassets.runtime.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.exe
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.deps.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.runtimeconfig.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.pdb
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.Mvc.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.Razor.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.Helpers.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Npgsql.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.AssemblyReference.cache
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.GeneratedMSBuildEditorConfig.editorconfig
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfoInputs.cache
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfo.cs
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CoreCompileInputs.cache
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.MvcApplicationPartsAssemblyInfo.cache
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cache
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cs
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.MvpPesquisador.Microsoft.AspNetCore.StaticWebAssets.props
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.build.MvpPesquisador.props
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MvpPesquisador.props
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MvpPesquisador.props
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets.pack.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets.build.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets.development.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\scopedcss\bundle\MvpPesquisador.styles.css
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\scopedcss\projectbundle\MvpPesquisador.bundle.scp.css
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CopyComplete
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\refint\MvpPesquisador.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.pdb
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.genruntimeconfig.cache
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V5\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\ref\MvpPesquisador.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\appsettings.json
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.staticwebassets.runtime.json
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.exe
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.deps.json
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.runtimeconfig.json
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.pdb
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Npgsql.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.AssemblyReference.cache
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfoInputs.cache
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfo.cs
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CoreCompileInputs.cache
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cache
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cs
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.MvpPesquisador.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.build.MvpPesquisador.props
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MvpPesquisador.props
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MvpPesquisador.props
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\scopedcss\bundle\MvpPesquisador.styles.css
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\scopedcss\projectbundle\MvpPesquisador.bundle.scp.css
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CopyComplete
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\refint\MvpPesquisador.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.pdb
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.genruntimeconfig.cache
+C:\Users\bortjo\Downloads\MvpPesquisador V6\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\ref\MvpPesquisador.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\appsettings.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.staticwebassets.runtime.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.exe
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.deps.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.runtimeconfig.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.pdb
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Npgsql.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.AssemblyReference.cache
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfoInputs.cache
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfo.cs
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CoreCompileInputs.cache
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cache
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cs
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.MvpPesquisador.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.build.MvpPesquisador.props
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MvpPesquisador.props
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MvpPesquisador.props
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\scopedcss\bundle\MvpPesquisador.styles.css
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\scopedcss\projectbundle\MvpPesquisador.bundle.scp.css
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CopyComplete
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\refint\MvpPesquisador.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.pdb
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.genruntimeconfig.cache
+C:\Users\ajmenosso\Downloads\MvpPesquisador V7\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\ref\MvpPesquisador.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\appsettings.Development.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\appsettings.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.staticwebassets.runtime.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.exe
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.deps.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.runtimeconfig.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.pdb
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.Mvc.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.Razor.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.Helpers.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Npgsql.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.AssemblyReference.cache
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.GeneratedMSBuildEditorConfig.editorconfig
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfoInputs.cache
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfo.cs
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CoreCompileInputs.cache
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.MvcApplicationPartsAssemblyInfo.cache
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cache
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cs
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.MvpPesquisador.Microsoft.AspNetCore.StaticWebAssets.props
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.build.MvpPesquisador.props
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MvpPesquisador.props
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MvpPesquisador.props
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets.pack.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets.build.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\staticwebassets.development.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\scopedcss\bundle\MvpPesquisador.styles.css
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\scopedcss\projectbundle\MvpPesquisador.bundle.scp.css
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CopyComplete
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\refint\MvpPesquisador.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.pdb
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.genruntimeconfig.cache
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8\MvpPesquisador V8\MvpPesquisador V5\MvpPesquisador\obj\Debug\net6.0\ref\MvpPesquisador.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\appsettings.json
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.staticwebassets.runtime.json
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.exe
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.deps.json
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.runtimeconfig.json
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.pdb
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\Npgsql.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.AssemblyReference.cache
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfoInputs.cache
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfo.cs
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CoreCompileInputs.cache
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cache
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cs
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.MvpPesquisador.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.build.MvpPesquisador.props
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MvpPesquisador.props
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MvpPesquisador.props
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\scopedcss\bundle\MvpPesquisador.styles.css
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\scopedcss\projectbundle\MvpPesquisador.bundle.scp.css
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CopyComplete
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\refint\MvpPesquisador.dll
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.pdb
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.genruntimeconfig.cache
+C:\Users\bortjo\Downloads\MvpPesquisador V8.1\MvpPesquisador\obj\Debug\net6.0\ref\MvpPesquisador.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\appsettings.Development.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\appsettings.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.staticwebassets.runtime.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.exe
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.deps.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.runtimeconfig.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.pdb
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\System.Web.Mvc.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\System.Web.Razor.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\System.Web.Helpers.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\Npgsql.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.AssemblyReference.cache
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.GeneratedMSBuildEditorConfig.editorconfig
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfoInputs.cache
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfo.cs
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CoreCompileInputs.cache
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.MvcApplicationPartsAssemblyInfo.cache
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cache
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cs
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.MvpPesquisador.Microsoft.AspNetCore.StaticWebAssets.props
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.build.MvpPesquisador.props
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MvpPesquisador.props
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MvpPesquisador.props
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\staticwebassets.pack.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\staticwebassets.build.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\staticwebassets.development.json
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\scopedcss\bundle\MvpPesquisador.styles.css
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\scopedcss\projectbundle\MvpPesquisador.bundle.scp.css
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CopyComplete
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\refint\MvpPesquisador.dll
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.pdb
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.genruntimeconfig.cache
+X:\Documentos\Faculdade\5º Semestre\Laboratório de software\MvpPesquisador V8.2\MvpPesquisador V8.2\MvpPesquisador\obj\Debug\net6.0\ref\MvpPesquisador.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\appsettings.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.staticwebassets.runtime.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.exe
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.deps.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.runtimeconfig.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\MvpPesquisador.pdb
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\Npgsql.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.AssemblyReference.cache
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfoInputs.cache
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.AssemblyInfo.cs
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CoreCompileInputs.cache
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cache
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.RazorAssemblyInfo.cs
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.MvpPesquisador.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.build.MvpPesquisador.props
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MvpPesquisador.props
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MvpPesquisador.props
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\scopedcss\bundle\MvpPesquisador.styles.css
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\scopedcss\projectbundle\MvpPesquisador.bundle.scp.css
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.csproj.CopyComplete
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\refint\MvpPesquisador.dll
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.pdb
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\MvpPesquisador.genruntimeconfig.cache
+C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\obj\Debug\net6.0\ref\MvpPesquisador.dll

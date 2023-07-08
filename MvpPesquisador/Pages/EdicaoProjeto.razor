@@ -1,0 +1,36 @@
+﻿@page "/edicaoProjeto"
+
+@using MvpPesquisador.Modelo
+@using MvpPesquisador.Controllers
+@inject ProjetoController projetoController
+@inject Modelo.Projeto projeto
+@using Microsoft.AspNetCore.Components.Forms
+
+<EditForm Model="@projeto" OnValidSubmit="@(e => projetoController.AtualizarProjeto(projeto))">
+
+    <div class="form-group d-flex justify-content-center align-items-center" style="margin: 20px;">
+        <h3>Edição Projeto</h3>
+    </div>
+
+    <div style="width: 45%;">
+        <option value="">Selecione o Projeto</option>
+        <select id="projeto" class="form-control" single @onchange="@(e => projetoController.ItemSelecionado(e, projeto))">
+            @foreach (var projetoItem in projetoController.GetProjetos())
+            {
+                <option value="@projetoItem.Id">@projetoItem.Nome</option>
+            }
+        </select>
+    </div>
+
+ <div class="form-group d-flex flex-row" style="margin: 20px;">
+        <div style="width: 20%;">
+            <label>Status:</label>
+        </div>
+        <div style="width: 45%;">
+            <InputCheckbox class="form-check-input" id="status"  @bind-Value="@projeto.Status"></InputCheckbox>
+            <label class="form-check-label" for="status">Ativo</label>
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary" style="margin: 20px;">Salvar</button>
+</EditForm>

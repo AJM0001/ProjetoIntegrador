@@ -1,0 +1,43 @@
+﻿@page "/resultadocadastro"
+
+@using MvpPesquisador.Modelo
+@using MvpPesquisador.Controllers
+@using Microsoft.AspNetCore.Components.Forms
+@inject ResultadoController resultadoController
+@inject Modelo.Resultado resultado
+
+<EditForm Model="@resultado" OnValidSubmit="@(e => resultadoController.CriarResultado(resultado))">
+    <DataAnnotationsValidator />
+
+    <div class="form-group d-flex justify-content-center align-items-center" style="margin: 20px;">
+        <h3>Cadastro Resultado</h3>
+    </div>
+
+    <div class="form-group d-flex flex-row" style="margin: 20px;">
+        <div style="width: 20%;">
+            <label>Informações:</label>
+        </div>
+        <div style="width: 45%;">
+            <InputTextArea class="form-control" id="informacoes" @bind-Value="@resultado.Informacoes"></InputTextArea>
+            <ValidationMessage For="() => resultado.Informacoes" />
+        </div>
+    </div>
+
+    <div class="form-group d-flex flex-row" style="margin: 20px;">
+        <div style="width: 20%;">
+            <label>Projeto:</label>
+        </div>
+        <div style="width: 45%;">
+    <option value="">Selecione o Projeto</option>
+    <select id="projeto" class="form-control" single @onchange="@(e => resultadoController.ItemSelecionado(e, resultado))">
+                @foreach (var projeto in resultadoController.GetProjetos())
+                {
+            <option value="@projeto.Id">@projeto.Nome</option>
+                }
+    </select>
+    </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary" style="margin: 20px;">Salvar</button>
+
+</EditForm>

@@ -1,0 +1,36 @@
+﻿@page "/estabelacimentorelatorio"
+
+@using MvpPesquisador.Modelo
+@using MvpPesquisador.Controllers
+@inject EstabelecimentoController estabelecimentoController
+
+<div class="form-group d-flex justify-content-center align-items-center" style="margin: 20px;">
+    <h3>Relatorio Estabelecimento</h3>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nome</th>
+            <th>Pessoas</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var estabelecimento in estabelecimentoController.BuscarTudoEstabelecimento())
+        {
+            <tr>
+                <td>@estabelecimento.Id</td>
+                <td>@estabelecimento.Nome</td>
+                <td>
+                    @foreach (var pessoa in estabelecimento.Pessoas)
+                    {
+                        <p>@pessoa.Nome</p> 
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+
+    <button type="submit" class="btn btn-primary" style="margin: 20px;" @onclick="estabelecimentoController.RecarregarPaginaEstabelecimento">Recarregar</button>
+</table>

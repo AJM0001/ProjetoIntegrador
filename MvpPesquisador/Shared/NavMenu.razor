@@ -1,0 +1,97 @@
+﻿<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">MvpPesquisador</a>
+        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+</div>
+
+<div class="@NavMenuCssClass" @onclick="ToggleNavMenu" style="width: 300px;">
+    <nav class="flex-column">
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="oi oi-home" aria-hidden="true"></span> Home
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="pesquisadorcadastro">
+                <span class="oi oi-plus" aria-hidden="true"></span> Cadastro Pesquisador
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="alunocadastro">
+                <span class="oi oi-plus" aria-hidden="true"></span> Cadastro Aluno
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="estabelecimentocadastro">
+                <span class="oi oi-plus" aria-hidden="true"></span> Cadastro Estabelecimento
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="projetocadastro">
+                <span class="oi oi-plus" aria-hidden="true"></span> Cadastro Projeto
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="resultadocadastro">
+                <span class="oi oi-plus" aria-hidden="true"></span> Cadastro Resultado
+            </NavLink>
+        </div>
+
+         <div class="nav-item px-3">
+            <NavLink class="nav-link" href="edicaoProjeto">
+                <span class="oi oi-plus" aria-hidden="true"></span> Edição Projeto
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="pesquisadorrelatorio">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Relatorio Pesquisador
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="alunorelatorio">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Relatorio Aluno
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="estabelacimentorelatorio">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Relatorio Estabelacimento
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="projetorelatorio">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Relatorio Projeto
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="resultadorelatorio">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Relatorio Resultado
+            </NavLink>
+        </div>
+
+    </nav>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

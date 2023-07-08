@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MvpPesquisador
+build_property.RootNamespace = MvpPesquisador
+build_property.ProjectDir = C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ajmenosso\Downloads\MvpPesquisador V9\MvpPesquisador
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ajmenosso/Downloads/MvpPesquisador V9/MvpPesquisador/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ajmenosso/Downloads/MvpPesquisador V9/MvpPesquisador/Pages/AlunoCadastro.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWx1bm9DYWRhc3Ryby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ajmenosso/Downloads/MvpPesquisador V9/MvpPesquisador/Pages/AlunoRelatorio.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWx1bm9SZWxhdG9yaW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ajmenosso/Downloads/MvpPesquisador V9/MvpPesquisador/Pages/EdicaoProjeto.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpY2FvUHJvamV0by5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ajmenosso/Downloads/MvpPesquisador V9/MvpPesquisador/Pages/EstabelecimentoCadastro.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWJlbGVjaW1lbnRvQ2FkYXN0cm8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ajmenosso/Downloads/MvpPesquisador V9/MvpPesquisador/Pages/EstabelecimentoRelatorio.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWJlbGVjaW1lbnRvUmVsYXRvcmlvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ajmenosso/Downloads/MvpPesquisador V9/MvpPesquisador/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ajmenosso/Downloads/MvpPesquisador V9/MvpPesquisador/Pages/PesquisadorCadastro.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVzcXVpc2Fkb3JDYWRhc3Ryby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ajmenosso/Downloads/MvpPesquisador V9/MvpPesquisador/Pages/PesquisadorRelatorio.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVzcXVpc2Fkb3JSZWxhdG9yaW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ajmenosso/Downloads/MvpPesquisador V9/MvpPesquisador/Pages/ProjetoCadastro.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamV0b0NhZGFzdHJvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ajmenosso/Downloads/MvpPesquisador V9/MvpPesquisador/Pages/ProjetoRelatorio.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamV0b1JlbGF0b3Jpby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ajmenosso/Downloads/MvpPesquisador V9/MvpPesquisador/Pages/ResultadoCadastro.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdWx0YWRvQ2FkYXN0cm8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ajmenosso/Downloads/MvpPesquisador V9/MvpPesquisador/Pages/ResultadoRelatorio.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzdWx0YWRvUmVsYXRvcmlvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ajmenosso/Downloads/MvpPesquisador V9/MvpPesquisador/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ajmenosso/Downloads/MvpPesquisador V9/MvpPesquisador/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ajmenosso/Downloads/MvpPesquisador V9/MvpPesquisador/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-iqm0z6vimv
+
+[C:/Users/ajmenosso/Downloads/MvpPesquisador V9/MvpPesquisador/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-x3u11di43u
+
+[C:/Users/ajmenosso/Downloads/MvpPesquisador V9/MvpPesquisador/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ajmenosso/Downloads/MvpPesquisador V9/MvpPesquisador/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ajmenosso/Downloads/MvpPesquisador V9/MvpPesquisador/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

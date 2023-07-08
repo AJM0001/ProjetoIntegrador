@@ -1,0 +1,70 @@
+﻿@page "/projetocadastro"
+
+@using MvpPesquisador.Modelo
+@using MvpPesquisador.Controllers
+@using Microsoft.AspNetCore.Components.Forms
+@inject ProjetoController projetoController
+@inject Modelo.Projeto projeto
+
+<EditForm Model="@projeto" OnValidSubmit="@(e => projetoController.CriarProjeto(projeto))">
+    <DataAnnotationsValidator />
+
+    <div class="form-group d-flex justify-content-center align-items-center" style="margin: 20px;">
+        <h3>Cadastro Projeto</h3>
+    </div>
+
+    <div class="form-group d-flex flex-row" style="margin: 20px;">
+        <div style="width: 20%;">
+            <label>Nome:</label>
+        </div>
+        <div style="width: 45%;">
+            <InputText class="form-control" id="nome" @bind-Value="@projeto.Nome"></InputText>
+            <ValidationMessage For="() => projeto.Nome" />
+        </div>
+    </div>
+
+    <div class="form-group d-flex flex-row" style="margin: 20px;">
+        <div style="width: 20%;">
+            <label>Pessoas:</label>
+        </div>
+        <div style="width: 45%;">
+    <option value="">Selecione as pessoas</option>
+    <select id="pessoas" class="form-control" multiple @onchange="@(e => projetoController.ItemSelecionadoPessoa(e, projeto))">
+                @foreach (var pessoa in projetoController.GetPessoas())
+                {
+            <option value="@pessoa.Id">@pessoa.Nome</option>
+                }
+    </select>
+    <ValidationMessage For="() => projeto.Pessoas" />
+    </div>
+    </div>
+
+    <div class="form-group d-flex flex-row" style="margin: 20px;">
+        <div style="width: 20%;">
+            <label>Estabelecimento:</label>
+        </div>
+        <div style="width: 45%;">
+    <option value="">Selecione os Estabelecimentos</option>
+    <select id="estabelecimento" class="form-control" multiple @onchange="@(e => projetoController.ItemSelecionadoEstabelecimento(e, projeto))">
+                @foreach (var estabelecimento in projetoController.GetEstabelecimento())
+                {
+            <option value="@estabelecimento.Id">@estabelecimento.Nome</option>
+                }
+    </select>
+    <ValidationMessage For="() => projeto.Estabelecimento" />
+    </div>
+    </div>
+
+    <div class="form-group d-flex flex-row" style="margin: 20px;">
+        <div style="width: 20%;">
+            <label>Area:</label>
+        </div>
+        <div style="width: 45%;">
+            <InputText class="form-control" id="area" @bind-Value="@projeto.Area"></InputText>
+            <ValidationMessage For="() => projeto.Area" />
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary" style="margin: 20px;">Salvar</button>
+
+</EditForm>
